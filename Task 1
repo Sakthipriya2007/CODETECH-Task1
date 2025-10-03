@@ -1,0 +1,62 @@
+<style>
+    h1{
+        color:red
+        
+    }
+    h2{
+        color:brown
+    }
+    
+    ul{
+        color:blue
+    }
+    a href{
+        color:blueviolet
+    }
+
+</style>
+<html>
+
+        <h1><center>LEVEL 1 TASK</center></h1>
+
+    
+    <head>
+        
+        <h2>SAKTHIPRIYA V</h2>
+        <h3>I am sakthipriya. I enjoy to working in HTML,CSS and JavaScript.I am always learning a new thing and I will improve my skills. I will be interesed in coding.i.m excited to keep growing and take a new project or task in web development.</h3>
+        <body>
+            <img src ="C:\Users\ADMIN\OneDrive\Pictures\Snapchat-44686943[1].jpg" width="150px" height="230">
+            <h2>ABOUT ME:</h2>
+            <p><h3>I am an aspiring web developer with hands-on experience in designing and building responsive websites using HTML, CSS, and JavaScript.My skills include front-end development, basic knowledge of frameworks.I enjoy solving technical challenges and continuously learning new technologies to enhance my work.I am passionate about creating clean, user-friendly interfaces that offer a great user experience.</h3></p>
+            <h2>SKILLS:</h2>
+            <ul>
+                <li>PYTHON</li>
+                <LI>FRONT-END WED DEVELOPEMENT</LI>
+                <li>SQL</li>
+                <li>JavaScript</li>
+            </ul>
+           <h3>PROJECT TITLE: ONLINE VOTING SYSTEM</h3> 
+           <H3>DESCRIPTION:</H3>
+           <p><H4>The voter information is saved in the server database. If a person’s age is less than 18 years old, and he tries to vote again using his face sample, the web page will indicate that he is not entitled to vote. 
+They only use as aadhaar or voter ID to register in online voting system. We can register only one time by using aadhaar or voter ID otherwise it’s not executed.
+This is not only use election. It is use any voting system.
+   In online voting system including  eye scanning to register a voting in online
+   It’s is useful for voting any cities, abroad, to voting likes election, etc…</H4>
+
+</p>
+<H2>PROJECT IMAGE:</H2>
+            <img src="C:\Users\ADMIN\OneDrive\Pictures\Screenshots\Screenshot 2025-02-21 093652.png" width="350px" height="300">
+            <br>
+            <H2>RESUME:</H2>
+            <a href ="C:\Users\ADMIN\OneDrive\Documents\SAKTHIPRIYA V Resume.pdf.pdf">Download PDF</a>
+            <br>
+            <H2>CONTACT:</H2>
+            <h3>Email:sakpri2007@gmail.com</h3>
+            <h3>Phone no:8610531366</h3>
+            <footer>
+    <p>&copy; 2025 SAKTHIPRIYA. All rights reserved.</p>
+     <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BZZwE3XXrRqWjqH%2BI0%2F212A%3D%3D">LinkedIn</a>
+  </footer>
+        </body>
+    </head>
+</html>
