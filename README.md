@@ -1,4 +1,6 @@
 # CODETECH-Task1
+<img width="1894" height="823" alt="Image" src="https://github.com/user-attachments/assets/ac6b0f66-065c-4010-b274-2c36e6c815cc" />
+
 
 1) Header Section
 Contains your name or a logo.
