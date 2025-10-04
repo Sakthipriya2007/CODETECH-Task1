@@ -11,8 +11,6 @@ Includes a short bio describing who you are, your interests, background, and exp
 A bullet list or grid of your technical skills (e.g., HTML, CSS, JavaScript, Python).
 
 5) Projects Section
-
-Showcases your top 2–4 projects.
 Each project includes:
 Title
 Description
