@@ -19,10 +19,14 @@ Image or screenshot
 6) Resume Section
 Offers a download link to your PDF resume.
 
-7)Contact Section
+7) Contact Section
 Lists your contact details:
 Email address
-Phone number (optional)
+Phone number 
 LinkedIn or GitHub profiles
+
+
+
+
 
 
